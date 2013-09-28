@@ -1,4 +1,4 @@
 tw-nodejs
 =========
 
-tw by nodejs
+Twitter Client for command line forked from shokai/tw by node.js
