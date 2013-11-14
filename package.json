@@ -1,12 +1,13 @@
 {
-  "name": "tw-node",
-  "version": "0.0.1",
+  "name": "ntw",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "start": "coffee app.coffee"
   },
   "dependencies": {
-    "oauth": "*",
-    "byline": "*"
+    "twitter": "*",
+    "moment": "~2.4.0",
+    "colors": "~0.6.2"
   }
 }
